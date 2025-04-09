@@ -8,10 +8,10 @@ func main() {
 	var full_name = "Muhammad Rivaldhi"
 
 	var result bool = name1 == name2
-	fmt.Println("Result : ", result)
+	fmt.Println("Result 1 : ", result)
 
 	var result2 = name1 == full_name
-	fmt.Println("Resul 2 : ", result2)
+	fmt.Println("Result 2 : ", result2)
 
 	var result3 = name2 != full_name
 	fmt.Println("Result 3 : ", result3)
